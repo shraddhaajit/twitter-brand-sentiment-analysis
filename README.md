@@ -7,6 +7,8 @@ A real-time dashboard that analyzes Twitter sentiment for any brand. Features:
 - **Tweet Volume** – Line graph showing tweet counts.
 - **Live Feed** – Displays top 5 recent popular tweets about the brand.
 
+Takes data from Twitter and generates data on it's own too to bypass Twitter's limits.
+
 ## How To Run
 
 ### Backend
