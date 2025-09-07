@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+input, button {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1, h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
